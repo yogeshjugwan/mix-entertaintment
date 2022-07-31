@@ -2,20 +2,20 @@
   {
   "name":"The warrior life",
     "duration":"02:30:00",
-    "type":"Action"
+    "type":"Action1"
   },
    {
   "name":"The warrior life",
-    "duration":"02:30:00",
-    "type":"Action"
+    "duration":"03:30:00",
+    "type":"Action2"
   }, {
   "name":"The warrior life",
     "duration":"02:30:00",
-    "type":"Action"
+    "type":"Action3"
   },
    {
   "name":"The warrior life",
-    "duration":"02:30:00",
-    "type":"Action"
+    "duration":"02:35:00",
+    "type":"Action4"
   } 
 ]
