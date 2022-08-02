@@ -3,12 +3,12 @@
     "id":"1",
     "name":"The warrior life",
     "duration":"02:30:00",
-    "type":"Action1"
+    "type":"Action1",
     "description":"description",
     "Language":"Language",
     "Subtitles" :"Subtitles",
     "Audio_Languages":"Audio Languages",
-    "Release Date":"Release Date"
+    "Release Date":"Release Date",
     "img_url":"",
     "name_link":"Thewarriorlife"
   },
@@ -16,12 +16,12 @@
     "id":"2",
     "name":"The warrior life2",
     "duration":"02:30:00",
-    "type":"Action1"
+    "type":"Action1",
     "description":"description",
     "Language":"Language",
     "Subtitles" :"Subtitles",
     "Audio_Languages":"Audio Languages",
-    "Release Date":"Release Date"
+    "Release Date":"Release Date",
     "img_url":"",
     "name_link":"Thewarriorlife2"
   },
