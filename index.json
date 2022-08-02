@@ -10,7 +10,8 @@
     "Audio_Languages":"Audio Languages",
     "Release_Date":"Release Date",
     "img_url":"",
-    "name_link":"Thewarriorlife"
+    "name_link":"Thewarriorlife",
+    "torrent_url":"torrent_Link"
   },
    {
     "id":"2",
@@ -23,6 +24,7 @@
     "Audio_Languages":"Audio Languages",
     "Release_Date":"Release Date",
     "img_url":"",
-    "name_link":"Thewarriorlife2"
+    "name_link":"Thewarriorlife2",
+     "torrent_url":"torrent_Link"
   }
 ]
