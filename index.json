@@ -1,19 +1,23 @@
 [
   {
+    "id":"1",
   "name":"The warrior life",
     "duration":"02:30:00",
     "type":"Action1"
   },
    {
+     "id":"2",
   "name":"The warrior life",
     "duration":"03:30:00",
     "type":"Action2"
   }, {
+    "id":"3",
   "name":"The warrior life",
     "duration":"02:30:00",
     "type":"Action3"
   },
    {
+     "id":"4",
   "name":"The warrior life",
     "duration":"02:35:00",
     "type":"Action4"
